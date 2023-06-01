@@ -8,7 +8,7 @@ int ispolnitel(int num) {
     if (newnum[0] >= newnum[1]) {
         printf("%d%d", newnum[0], newnum[1]);
     } else {
-        printf("%d%d", newnum[1], newnum[0]);          // Вывод в порядке убыванияЫ
+        printf("%d%d", newnum[1], newnum[0]);          // Вывод в порядке убывания
     }
 }
 
